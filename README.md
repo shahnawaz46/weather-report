@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To visit project click on the below link
+
+link: https://shahnawaz46.github.io/weather-report/
+ 
 ## Available Scripts
 
 In the project directory, you can run:
