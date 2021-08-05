@@ -1,6 +1,3 @@
-# Getting Started with Create React App
-
-
 ## To visit project click on the below link
 
 link: https://shahnawaz46.github.io/weather-report/
